@@ -1,9 +1,5 @@
-def parrot
-name = "Squawk"
-puts name 
-end 
-
 def parrot 
-  name "Squawk"
-  return "Squawk"
+  sound ="Squawk"
+  puts sound 
+  return sound 
 end 
