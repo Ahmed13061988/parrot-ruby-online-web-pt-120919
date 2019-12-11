@@ -1,5 +1,5 @@
 def parrot 
-  sound ="Squawk"
-  puts sound 
-  return sound 
+  "Squawk!"
+  puts "Squawk!"
+  return "Squawk!"
 end 
